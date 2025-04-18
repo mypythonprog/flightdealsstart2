@@ -1,4 +1,4 @@
-i can't figure out . Searching for Flights
+i can kick your ass out . Searching for Flights
 The next step is to search for the flight prices from London (LON) to all the destinations in the Google Sheet. In this project, we're looking only for non stop flights, that leave anytime between tomorrow and in 6 months (6x30days) time. We're also looking for round trips for 1 adult. The currency of the price we get back should be in GBP.
 
 
